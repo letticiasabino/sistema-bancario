@@ -23,12 +23,16 @@ Este projeto implementa um sistema bancário simples em Python, desenvolvido com
 
 Navegue até a pasta do projeto:
 
-``` cd sistema-bancario ```
+```
+cd sistema-bancario
+```
 
 
 Execute o script principal:
 
-```python sistema_bancario.py ```
+```
+python sistema_bancario.py
+```
 
 ## 💡 Aprendizados
 Esse projeto me ajudou a fixar melhor os conceitos de:
